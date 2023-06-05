@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (Stack_p2.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.cpp
+C:\Users\USER\source\repos\資料結構\midterm-practice\作業練習\Stack_p2\Stack_p2\main.cpp(46,30): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\source\repos\資料結構\midterm-practice\作業練習\Stack_p2\Stack_p2\main.cpp(110,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+  Stack_p2.vcxproj -> C:\Users\USER\source\repos\資料結構\midterm-practice\作業練習\Stack_p2\x64\Debug\Stack_p3.exe

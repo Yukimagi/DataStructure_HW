@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\USER\source\repos\資料結構\midterm-practice\作業練習\同學參考\list_p_classm\list_p_classm\Header.h(199,13): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  list_p_classm.vcxproj -> C:\Users\USER\source\repos\資料結構\midterm-practice\作業練習\同學參考\list_p_classm\x64\Debug\list_p_classm.exe

@@ -1,0 +1,14 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\USER\Downloads\all_projectfile\B\ConsoleApplication3\HeapSort.h(38,11): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Downloads\all_projectfile\B\ConsoleApplication3\HeapSort.h(37,1): message : 編譯 類別 樣板 成員函式 'void HeapSortClass<DataFrame,compareWithDate>::HeapSort(IT *,IT *)' 期間
+          with
+          [
+              IT=DataFrame
+          ]
+C:\Users\USER\Downloads\all_projectfile\B\ConsoleApplication3\ConsoleApplication3.cpp(47,56): message : 請參考正在進行編譯的函式 樣板 具現化 'void HeapSortClass<DataFrame,compareWithDate>::HeapSort(IT *,IT *)'
+          with
+          [
+              IT=DataFrame
+          ]
+C:\Users\USER\Downloads\all_projectfile\B\ConsoleApplication3\ConsoleApplication3.cpp(47,56): message : 請參考正在進行編譯的 類別 樣板 具現化 'HeapSortClass<DataFrame,compareWithDate>'
+  ConsoleApplication3.vcxproj -> C:\Users\USER\Downloads\all_projectfile\B\x64\Debug\ConsoleApplication3.exe

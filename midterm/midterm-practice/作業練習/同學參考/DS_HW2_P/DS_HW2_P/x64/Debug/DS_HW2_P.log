@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\USER\Downloads\資結作業2\data_2\data\Matrix.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\USER\Downloads\資結作業2\data_2\data\Matrix.h(106,24): warning C4101: 'end': 未參考的區域變數
+C:\Users\USER\Downloads\資結作業2\data_2\data\Matrix.h(106,17): warning C4101: 'start': 未參考的區域變數
+  DS_HW2_P.vcxproj -> C:\Users\USER\source\repos\DS_HW2_P\x64\Debug\DS_HW2_P.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\q3\q3\Header.h(5,33): error C3856: 'Doubly_Linked_List': 符號的類別不是 樣板
+C:\Users\USER\source\repos\q3\q3\Header.h(18,2): message : 請參考正在進行編譯的 類別 樣板 具現化 'ChainNode<T>'
+C:\Users\USER\source\repos\q3\q3\Header.h(5,1): error C2098: 資料成員 'T' 後接著不需要的語彙基元
+C:\Users\USER\source\repos\q3\q3\Header.h(5,35): error C2059: 語法錯誤: '>'
+C:\Users\USER\source\repos\q3\q3\Header.h(20,1): error C2989: 'Doubly_Linked_List': 類別 樣板 已宣告為非類別 樣板
+C:\Users\USER\source\repos\q3\q3\Header.h(5,1): message : 請參閱 'Doubly_Linked_List' 的宣告
+C:\Users\USER\source\repos\q3\q3\Header.h(19,1): error C3857: 'Doubly_Linked_List': 不允許多個 樣板 參數清單

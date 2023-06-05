@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\STACK_HW3\STACK_HW3\main.cpp(36,43): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  STACK_HW3.vcxproj -> C:\Users\USER\source\repos\STACK_HW3\x64\Debug\STACK_HW3.exe

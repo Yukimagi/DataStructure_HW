@@ -1,0 +1,19 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\USER\source\repos\資料結構\all_projectfile\P2\ConsoleApplication4\HeapSort.h(44,11): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\資料結構\all_projectfile\P2\ConsoleApplication4\HeapSort.h(43,1): message : 編譯 類別 樣板 成員函式 'void HeapSortClass<DataFrame,cmpForencoding>::HeapSort(IT *,IT *)' 期間
+          with
+          [
+              IT=DataFrame
+          ]
+C:\Users\USER\source\repos\資料結構\all_projectfile\P2\ConsoleApplication4\ConsoleApplication4.cpp(132,55): message : 請參考正在進行編譯的函式 樣板 具現化 'void HeapSortClass<DataFrame,cmpForencoding>::HeapSort(IT *,IT *)'
+          with
+          [
+              IT=DataFrame
+          ]
+C:\Users\USER\source\repos\資料結構\all_projectfile\P2\ConsoleApplication4\ConsoleApplication4.cpp(132,55): message : 請參考正在進行編譯的 類別 樣板 具現化 'HeapSortClass<DataFrame,cmpForencoding>'
+  正在產生程式碼
+  0 of 305 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  ConsoleApplication4.vcxproj -> C:\Users\USER\source\repos\資料結構\all_projectfile\P2\x64\Release\ConsoleApplication4.exe
